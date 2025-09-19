@@ -1,2 +1,6 @@
 youtube.com.dnsbl7.mailshell.net
 aaa.com
+bbb.com
+www.bbb.com
+adcom.com.tw
+www.adcom.com.tw
